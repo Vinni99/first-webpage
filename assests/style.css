@@ -1,0 +1,36 @@
+* {
+    font-family: monospace, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+nav {
+    text-align: right;
+    background-color: rgb(11, 71, 11);
+    color: white;
+    line-height: 50px;
+}
+
+a {
+    color: white;
+}
+
+a:visited {
+    color: grey;
+}
+
+body {
+    background-color: rgb(170, 244, 188);
+}
+
+
+.send button {
+    height: 30px;
+    width: 80px;
+    color: white;
+    background-color: rgb(39, 33, 33);
+}
+
+#footer {
+    background-color: rgb(4, 81, 28)
+  color white
+}
